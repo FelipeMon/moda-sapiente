@@ -11,7 +11,6 @@
     height: 80px;
     display: flex;
     align-items: center;
-
 }
 
 .menu .menu__lista {
@@ -58,7 +57,6 @@ a {
     padding: 50px;
     margin-right: 40px;
     height: 200px;
-
 }
 
 .planoDois {
@@ -67,7 +65,6 @@ a {
     width: 100px;
     padding: 50px;
     margin-right: 40px;
-
 }
 
 .planoTres {
@@ -75,7 +72,6 @@ a {
     border-radius: 10px;
     width: 100px;
     padding: 50px;
-
 }
 
 .logotipoServicos {
