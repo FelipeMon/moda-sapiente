@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding: 0;
-
 }
 
 /*css menu navegável comum à todas as páginas*/
@@ -13,7 +12,6 @@
     height: 80px;
     display: flex;
     align-items: center;
-
 }
 
 .menu .menu__lista {
@@ -49,7 +47,6 @@ a {
     position: absolute;
     bottom: 100px;
     margin-left: 20px;
-
 }
 
 .contact {
@@ -61,8 +58,7 @@ a {
     margin-top: 30px;
     margin-bottom: 60px;
     padding: 80px;
-    padding-right: 200px;
-    
+    padding-right: 200px;  
 }
 
 h2{
@@ -75,7 +71,6 @@ h2{
     display: flex;
     flex-direction: column;
     height: 50vh;
-
 }
 
 .contact__form div {
